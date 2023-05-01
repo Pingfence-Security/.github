@@ -1,5 +1,7 @@
 
-[![JODC logo](/longmietlogo.png)](https://www.mietjmu.in)
+
+![MODC logo](/longmietlogo.png){:width="300px"}
+
 
 ## ✨ Welcome
 
