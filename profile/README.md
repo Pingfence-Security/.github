@@ -1,4 +1,5 @@
-[![MODC logo]()](https://github.com/MIET-Open-Source-Developers-Circle/.github/blob/main/longmietlogo.png)
+
+[![JODC logo](/longmietlogo.png)](https://www.mietjmu.in)
 
 ## ✨ Welcome
 
