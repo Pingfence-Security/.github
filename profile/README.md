@@ -1,4 +1,4 @@
-[![MODC logo](/bag)](htvs.com)
+[![MODC logo]()](https://github.com/MIET-Open-Source-Developers-Circle/.github/blob/main/longmietlogo.png)
 
 ## ✨ Welcome
 
