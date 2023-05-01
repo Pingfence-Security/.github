@@ -6,10 +6,6 @@ The MIET is an initiative by the students of MIET-20 to promote open source cult
 
 We encourage them to volunteer for open source projects and organisations and participate in open source initiatives such as Google Summer of Code and Outreachy to become better developers and for the betterment of open source.
 
-Model Institute of Engineering and Technology GitHub Organization
-
-Welcome to the official GitHub organization of Model Institute of Engineering and Technology (MIET). Established by the enthusiastic batch of 2020, this repository has been nurtured and expanded over the past five years by dedicated third-year students. Our aim is to foster a thriving community and extend the reach of our organization by including alumni members as well.
-
 Vision:
 We envision creating a dynamic and inclusive community of students, alumni, and faculty members of MIET. By leveraging the power of GitHub, we strive to promote collaboration, knowledge sharing, and innovation among our members. Our collective vision is to build a strong network that transcends the boundaries of time and creates a lasting impact.
 
