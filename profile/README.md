@@ -1,7 +1,7 @@
 
 
 ![MODC logo](/longmietlogo.png){https://mietjmu.in}
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="" />
+<img style="float: right;" src="https://github.com/MIET-Open-Source-Developers-Circle/.github/blob/main/longmietlogo.png" alt="" />
 
 
 ## ✨ Welcome
