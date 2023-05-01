@@ -1,12 +1,14 @@
-## Hi there 👋
+[![JODC logo](/banner.png)](https://www.ossdevs.com)
 
-<!--
+## ✨ Welcome
 
-**Here are some ideas to get you started:**
+The JODC is an initiative by the students of JIIT-128 to promote open source culture. The hub is all about contributing to and collaborating on projects, networking, learning together and guiding students. We conduct talks, workshops, activities, one-to-one sessions and dev-sprints to mentor students.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We encourage them to volunteer for open source projects and organisations and participate in open source initiatives such as Google Summer of Code and Outreachy to become better developers and for the betterment of open source.
+
+## 🌎 Join the JODC community
+
+We're a community of great people who are passionate about Open-Source. You can reach us at:
+
+- **Website**: https://ossdevs.com
+- **Discord**: https://discord.io/jodc
