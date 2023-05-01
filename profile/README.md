@@ -1,6 +1,6 @@
 
 
-![MODC logo](/longmietlogo.png){:width="300px"}
+![MODC logo](/longmietlogo.png){:width="800px"}
 
 
 ## ✨ Welcome
