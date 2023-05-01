@@ -1,4 +1,4 @@
-[![JODC logo](/bag)](htvs.com)
+[![MODC logo](/bag)](htvs.com)
 
 ## ✨ Welcome
 
