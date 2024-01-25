@@ -8,7 +8,7 @@ At Pingfence, we believe that privacy is a fundamental right for everyone, and i
 - **Organization Name:** Pingfence
 - **Email:** [pingfence@gmail.com](mailto:pingfence@gmail.com)
 - **Website:** [pingfence.com](https://pingfence.com)
-- **Location:** [Your Location]
+- **Location:** Jammu
 - **Description:** Security testing, auditing, and software development company
 
 ## 🌐 Connect With Us
