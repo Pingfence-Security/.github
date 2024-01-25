@@ -4,7 +4,7 @@ At Pingfence, we believe that privacy is a fundamental right for everyone, and i
 
 ## 🚀 About Us
 
-- **Founder & CEO:** Aadhaar Koul
+- **Founder & CEO:** Aadhaar Koul , Arjun Charak
 - **Organization Name:** Pingfence
 - **Email:** [pingfence@gmail.com](mailto:pingfence@gmail.com)
 - **Website:** [pingfence.com](https://pingfence.com)
