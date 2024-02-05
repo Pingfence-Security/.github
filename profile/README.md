@@ -31,6 +31,7 @@ If you share our vision and want to support our mission, consider sponsoring Pin
 ## 📬 Contact the Founder
 
 - **Email:** [aadhaarkoul2002@gmail.com](mailto:aadhaarkoul2002@gmail.com)
+- **Email:** [arjuncharak8@gmail.com](mailto:arjuncharak8@gmail.com)
 
 ## 🙏 Sponsors Update
 
